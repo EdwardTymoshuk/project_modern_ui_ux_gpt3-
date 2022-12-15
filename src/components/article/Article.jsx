@@ -1,7 +1,7 @@
 import React from 'react'
 import './article.css'
 
-const Acticle = () => {
+const Article = () => {
     return (
         <div>
             
@@ -9,4 +9,4 @@ const Acticle = () => {
     )
 }
 
-export default Acticle
+export default Article
