@@ -1,6 +1,6 @@
-import React from 'react';
-import Feature from '../../components/feature/Feature';
-import './features.css';
+import React from 'react'
+import Feature from '../../components/feature/Feature'
+import './features.css'
 
 const featuresData = [
   {
@@ -19,7 +19,7 @@ const featuresData = [
     title: 'Really boy law county',
     text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
   },
-];
+]
 
 const Features = () => (
   <div className="gpt3__features section__padding" id="features">
@@ -33,6 +33,6 @@ const Features = () => (
       ))}
     </div>
   </div>
-);
+)
 
-export default Features;
+export default Features
